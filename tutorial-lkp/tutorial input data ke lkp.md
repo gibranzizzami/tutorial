@@ -1,5 +1,5 @@
 1. Masuk kedalam akun LKP
-![[Screenshot From 2025-08-05 23-02-35.png]]
+![[tutorial-lkp/Screenshot From 2025-08-05 23-02-35.png]]
 
 2. Tampilan saat awal masuk ke dalam LKP
 ![[Screenshot From 2025-08-05 23-02-43.png]]
